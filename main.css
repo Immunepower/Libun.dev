@@ -13,7 +13,7 @@ body {
     align-items: center;
     text-align: center;
     min-height: 100vh;
-    background: url(file:///C:/Users/libun/Downloads/v3-290920-rocket-minimalist-desktop-wallpaper-4k.png) no-repeat center center fixed;
+    background: url(<iframe id="reddit-embed" src="https://www.redditmedia.com/r/wallpaper/comments/j3tys2/minimal_rocket_1920x1080/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="429" width="640" scrolling="no"></iframe>) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
